@@ -1,1 +1,2 @@
-MAnutd na bastard
+My first commit 
+update in git 
